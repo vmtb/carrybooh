@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976753058160",
+    "project_id": "carrybooh-8941d",
+    "storage_bucket": "carrybooh-8941d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976753058160:android:f7236bae479ac1f3772fb5",
+        "android_client_info": {
+          "package_name": "io.instamobile.restaurant.rn.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976753058160-jnu81tou5g3009d9ufvgic0jc9rr1an8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD62domg01kP-2WVnHVjlgUVfs55bc1JQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976753058160-jnu81tou5g3009d9ufvgic0jc9rr1an8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

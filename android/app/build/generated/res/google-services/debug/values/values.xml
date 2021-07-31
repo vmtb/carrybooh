@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">976753058160-jnu81tou5g3009d9ufvgic0jc9rr1an8.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">976753058160</string>
+    <string name="google_api_key" translatable="false">AIzaSyDD62domg01kP-2WVnHVjlgUVfs55bc1JQ</string>
+    <string name="google_app_id" translatable="false">1:976753058160:android:f7236bae479ac1f3772fb5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDD62domg01kP-2WVnHVjlgUVfs55bc1JQ</string>
+    <string name="google_storage_bucket" translatable="false">carrybooh-8941d.appspot.com</string>
+    <string name="project_id" translatable="false">carrybooh-8941d</string>
+</resources>

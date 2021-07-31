@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Instadating.iml" filepath="$PROJECT_DIR$/.idea/modules/Instadating.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Instadating.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Instadating.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/58362147/Instadating.expo-av.iml" filepath="$PROJECT_DIR$/.idea/modules/58362147/Instadating.expo-av.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1356834541/Instadating.expo-camera.iml" filepath="$PROJECT_DIR$/.idea/modules/-1356834541/Instadating.expo-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/814766945/Instadating.expo-constants.iml" filepath="$PROJECT_DIR$/.idea/modules/814766945/Instadating.expo-constants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1973201868/Instadating.expo-facebook.iml" filepath="$PROJECT_DIR$/.idea/modules/-1973201868/Instadating.expo-facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/720062514/Instadating.expo-file-system.iml" filepath="$PROJECT_DIR$/.idea/modules/720062514/Instadating.expo-file-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1320089271/Instadating.expo-firebase-core.iml" filepath="$PROJECT_DIR$/.idea/modules/1320089271/Instadating.expo-firebase-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-35629005/Instadating.expo-image-loader.iml" filepath="$PROJECT_DIR$/.idea/modules/-35629005/Instadating.expo-image-loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/266962350/Instadating.expo-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/266962350/Instadating.expo-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/857163271/Instadating.expo-localization.iml" filepath="$PROJECT_DIR$/.idea/modules/857163271/Instadating.expo-localization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-844039645/Instadating.expo-location.iml" filepath="$PROJECT_DIR$/.idea/modules/-844039645/Instadating.expo-location.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1693979926/Instadating.expo-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/1693979926/Instadating.expo-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-268512193/Instadating.react-native-appearance.iml" filepath="$PROJECT_DIR$/.idea/modules/-268512193/Instadating.react-native-appearance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1645955123/Instadating.react-native-autogrow-textinput.iml" filepath="$PROJECT_DIR$/.idea/modules/-1645955123/Instadating.react-native-autogrow-textinput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/253311624/Instadating.react-native-community_art.iml" filepath="$PROJECT_DIR$/.idea/modules/253311624/Instadating.react-native-community_art.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1968061681/Instadating.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1968061681/Instadating.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1912920533/Instadating.react-native-community_geolocation.iml" filepath="$PROJECT_DIR$/.idea/modules/-1912920533/Instadating.react-native-community_geolocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1449302476/Instadating.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1449302476/Instadating.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1523325727/Instadating.react-native-dark-mode.iml" filepath="$PROJECT_DIR$/.idea/modules/1523325727/Instadating.react-native-dark-mode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1794075894/Instadating.react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/-1794075894/Instadating.react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1336496773/Instadating.react-native-fast-image.iml" filepath="$PROJECT_DIR$/.idea/modules/1336496773/Instadating.react-native-fast-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/601969155/Instadating.react-native-fbsdk.iml" filepath="$PROJECT_DIR$/.idea/modules/601969155/Instadating.react-native-fbsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1429993824/Instadating.react-native-ffmpeg.iml" filepath="$PROJECT_DIR$/.idea/modules/-1429993824/Instadating.react-native-ffmpeg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1358956078/Instadating.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/1358956078/Instadating.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1568959237/Instadating.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-1568959237/Instadating.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1945598545/Instadating.react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/1945598545/Instadating.react-native-firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1909106549/Instadating.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1909106549/Instadating.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/187955386/Instadating.react-native-get-random-values.iml" filepath="$PROJECT_DIR$/.idea/modules/187955386/Instadating.react-native-get-random-values.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1215033982/Instadating.react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1215033982/Instadating.react-native-image-crop-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1692657243/Instadating.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1692657243/Instadating.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-264796975/Instadating.react-native-image-resizer.iml" filepath="$PROJECT_DIR$/.idea/modules/-264796975/Instadating.react-native-image-resizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1151630428/Instadating.react-native-localize.iml" filepath="$PROJECT_DIR$/.idea/modules/-1151630428/Instadating.react-native-localize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-468507480/Instadating.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/-468507480/Instadating.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1349068111/Instadating.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1349068111/Instadating.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-48989644/Instadating.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-48989644/Instadating.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/319114060/Instadating.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/319114060/Instadating.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/709013577/Instadating.react-native-search-bar.iml" filepath="$PROJECT_DIR$/.idea/modules/709013577/Instadating.react-native-search-bar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-71315555/Instadating.react-native-ui-lib.iml" filepath="$PROJECT_DIR$/.idea/modules/-71315555/Instadating.react-native-ui-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-977042645/Instadating.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-977042645/Instadating.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-421943362/Instadating.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-421943362/Instadating.react-native-webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/595594198/Instadating.tipsi-stripe.iml" filepath="$PROJECT_DIR$/.idea/modules/595594198/Instadating.tipsi-stripe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/908236072/Instadating.unimodules-app-loader.iml" filepath="$PROJECT_DIR$/.idea/modules/908236072/Instadating.unimodules-app-loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1227858900/Instadating.unimodules-barcode-scanner-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/1227858900/Instadating.unimodules-barcode-scanner-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/437524410/Instadating.unimodules-camera-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/437524410/Instadating.unimodules-camera-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1486492978/Instadating.unimodules-constants-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/1486492978/Instadating.unimodules-constants-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-315626556/Instadating.unimodules-core.iml" filepath="$PROJECT_DIR$/.idea/modules/-315626556/Instadating.unimodules-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-12095015/Instadating.unimodules-face-detector-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-12095015/Instadating.unimodules-face-detector-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1060678531/Instadating.unimodules-file-system-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/1060678531/Instadating.unimodules-file-system-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-658454364/Instadating.unimodules-font-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-658454364/Instadating.unimodules-font-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1536587418/Instadating.unimodules-image-loader-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/1536587418/Instadating.unimodules-image-loader-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/879078247/Instadating.unimodules-permissions-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/879078247/Instadating.unimodules-permissions-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2114854860/Instadating.unimodules-react-native-adapter.iml" filepath="$PROJECT_DIR$/.idea/modules/2114854860/Instadating.unimodules-react-native-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-176043236/Instadating.unimodules-sensors-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-176043236/Instadating.unimodules-sensors-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-213181126/Instadating.unimodules-task-manager-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-213181126/Instadating.unimodules-task-manager-interface.iml" />
+    </modules>
+  </component>
+</project>
